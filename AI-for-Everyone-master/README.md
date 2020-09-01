@@ -6,8 +6,7 @@
 **Instructor:** [Andrew Ng](https://www.coursera.org/instructor/andrewng) 
 
 **Skills you will gain**
-*Workflow of Machine Learning projects*
-*terminologyAI strategy AI Workflow of Data Science projects*
+*Workflow of Machine Learning projects   AI terminology    AI strategy   *Workflow of Data Science projects*
 
 ---------------------------------------------------------------------------------------------
 
